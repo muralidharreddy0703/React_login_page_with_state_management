@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/muralidharreddy0703/React_login_page_with_state_management/static/css/main.4fd886da.chunk.css",
+    "main.js": "/muralidharreddy0703/React_login_page_with_state_management/static/js/main.962a630e.chunk.js",
+    "main.js.map": "/muralidharreddy0703/React_login_page_with_state_management/static/js/main.962a630e.chunk.js.map",
+    "runtime-main.js": "/muralidharreddy0703/React_login_page_with_state_management/static/js/runtime-main.9e4170e6.js",
+    "runtime-main.js.map": "/muralidharreddy0703/React_login_page_with_state_management/static/js/runtime-main.9e4170e6.js.map",
+    "static/js/2.b16775e9.chunk.js": "/muralidharreddy0703/React_login_page_with_state_management/static/js/2.b16775e9.chunk.js",
+    "static/js/2.b16775e9.chunk.js.map": "/muralidharreddy0703/React_login_page_with_state_management/static/js/2.b16775e9.chunk.js.map",
+    "index.html": "/muralidharreddy0703/React_login_page_with_state_management/index.html",
+    "precache-manifest.a7a52e3775ad677c48ac31aebaf58cb8.js": "/muralidharreddy0703/React_login_page_with_state_management/precache-manifest.a7a52e3775ad677c48ac31aebaf58cb8.js",
+    "service-worker.js": "/muralidharreddy0703/React_login_page_with_state_management/service-worker.js",
+    "static/css/main.4fd886da.chunk.css.map": "/muralidharreddy0703/React_login_page_with_state_management/static/css/main.4fd886da.chunk.css.map",
+    "static/js/2.b16775e9.chunk.js.LICENSE.txt": "/muralidharreddy0703/React_login_page_with_state_management/static/js/2.b16775e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e4170e6.js",
+    "static/js/2.b16775e9.chunk.js",
+    "static/css/main.4fd886da.chunk.css",
+    "static/js/main.962a630e.chunk.js"
+  ]
+}
